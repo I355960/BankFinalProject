@@ -1,6 +1,6 @@
 # Simple Banking Application
 
-# A.	Requirement Details:
+A.	Requirement Details:
 
 Design and build a Simple Banking Application using Java Spring Integrated with the Database.
 As an application developer, you got a requirement to design and build a Banking application, 
