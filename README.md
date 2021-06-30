@@ -1,5 +1,4 @@
-# BankFinalProject
-Final project on Bank
+# Simple Banking Application
 
 A.	Requirement Details:
 
